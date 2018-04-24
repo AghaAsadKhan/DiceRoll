@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="Dice_Button">Roll</string>
+    <string name="image_Logo">id_logo</string>
+    <string name="Left_Dice">id_LeftDice</string>
+    <string name="Right_Dice">id_RightDice</string>
+
+</resources>
